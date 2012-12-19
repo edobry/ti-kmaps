@@ -1,0 +1,23 @@
+Specials: 	STO: →
+			THETA: idk yet =\
+
+1→H:1→:0→G:0→U
+While V<3
+1→H
+4V-4→U
+While H<3
+4H-4→G
+1→THETA
+While THETA<5
+1→Z
+While Z<5
+[G](THETA,Z)→[E](THETA+U,Z+G)
+Z+1→Z
+End
+THETA+1→THETA
+End
+H+1→H
+End
+V+1→V
+End
+[E]

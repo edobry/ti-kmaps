@@ -1,0 +1,10 @@
+ClrHome
+1→I
+While I<dim(\LQ) and \LQ(I)!=0
+If fPart(\LQ(I)/π)=0:Then
+prgmKSOUTH
+Else:prgmKSOUTV
+End
+I+2→I
+Pause
+End

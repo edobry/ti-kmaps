@@ -1,0 +1,10 @@
+ClrDraw
+AxesOn
+ClrHome
+Disp "GAME OVER"
+
+While S!=1 and S!=0
+Prompt S:End
+If S=1
+prgmKSCORE
+Stop
