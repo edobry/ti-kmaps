@@ -1,0 +1,10 @@
+prgmKINIT
+Lbl 1
+prgmKSTURN
+While K!=105
+prgmKGETKEY
+prgmKMOVE
+End
+prgmKPUT
+prgmKCURSOR
+Goto 1

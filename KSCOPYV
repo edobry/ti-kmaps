@@ -1,0 +1,6 @@
+0→I
+While I<4
+\LD(D+I)→\LV(V+1)
+I+1→I
+End
+V+4→V

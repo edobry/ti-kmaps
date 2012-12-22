@@ -1,0 +1,7 @@
+1→H:1→V
+Fill(0,\LH):Fill(0,\LV)
+1→D
+While D+3<dim(\LD)
+If \LD(D)=\LD(D+2):Then:prgmKSCOPYV:Else:prgmKSCOPYH:End
+D+4→D
+End

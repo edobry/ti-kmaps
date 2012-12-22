@@ -1,0 +1,22 @@
+1→D
+1→I
+1→M
+
+While D<dim(\LV)/3
+1→M
+While I+4M+1<dim(\LV)
+(\LV(I)=\LV(I+4M)) and (\LV(I+4M+1)<5)→X
+\LV(I)+2=\LV(I+4M)→W
+\LV(I+1)=(\LV(I+1+4M)+2)→Y
+\LV(I+1)+1=\LV(I+1+4M)→Z
+
+If (\LV(I)=\LV(I+4M)) and (\LV(I+4M+1)<5):Then ?????????
+If \LV(I+1)=1 and \LV(I+1)=(\LV(I+1+4M)+2):Then
+De→\LQ(Q):(D+M)e→\LQ(Q+1)
+Q+2→Q
+End:End
+
+M+1→M
+End
+D+1→D:I+4→I
+End

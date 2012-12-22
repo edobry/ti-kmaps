@@ -1,0 +1,16 @@
+If K=24:Then
+1→D:-1→M:End
+
+If K=25:Then
+0→D:-1→M:End
+
+If K=26:Then
+1→D:1→M:End
+
+If K=34:Then
+0→D:1→M:End
+
+If K=0:Then
+1→D:1→M:End
+
+If K=45:prgmKDONE

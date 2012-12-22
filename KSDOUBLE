@@ -1,0 +1,21 @@
+0→R
+1→W
+Fill(0, \LD)
+1→Y
+While Y<5
+1→x
+While X<5
+0→R
+While R<(1.1pi/2)
+cos(R)→S
+sin(R)→T
+If ([E](Y,X)=[E](Y+T,X+S)):Then
+prgmSTOREDBL
+End
+R+(pi/2)→R
+End
+X+1→X
+End
+Y+1→Y
+End
+prgmKSOUTPUT

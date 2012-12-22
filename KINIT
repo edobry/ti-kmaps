@@ -1,0 +1,11 @@
+AxesOff
+ClrDraw
+prgmKRESET
+RecallPic Pic0
+1→T
+0→K
+2→S
+1→X:1→Y
+[J](1,1)→I
+[J](1,2)→J
+prgmKCURSOR

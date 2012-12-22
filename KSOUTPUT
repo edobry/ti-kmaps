@@ -1,0 +1,14 @@
+ClrHome
+1→I:1→N
+Lbl 1
+Output(1,1,"DOUBLES:")
+If I=8:Goto 2
+While \LD(N)!=0
+If I=8:Then
+Pause :ClrHome:Goto 1:Lbl 2
+1→I:End
+Output(I+1,1,\LD(N)):Output(I=1,3,\LD(N+1))
+Output(I+1,7,\LD(N+2)):Output(I+1,9,\LD(N+3))
+I+1→I
+N+4→N
+End

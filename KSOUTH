@@ -1,0 +1,11 @@
+Output(6,6,"H")
+4((\LQ(I)/pi)-1)+1→M
+4((\LQ(I+1)/pi)-1)+1→B
+Output(1,1,\LH(M))
+Output(1,3,\LH(M+1))
+Output(1,7,\LH(M+2))
+Output(1,9,\LH(M+3))
+Output(3,1,\LH(B))
+Output(3,3,\LH(B+1))
+Output(3,7,\LH(B+2))
+Output(3,9,\LH(B+3))

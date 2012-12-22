@@ -1,0 +1,25 @@
+1→D:1→Q:1→I:1→M
+While D<dim(\LH)-3
+1→M
+While I+4M<dim(\LH)
+(\LH(I)=\LH(I+4M)) and (\LH(I_4M+1)<5)→X
+\LH(I)+2=\LH(I+4M)→W
+\LH(I+1)=\LH(I+1+4M)→Y
+\LH(I+1)+1=\LH(I+1+4M)→Z
+
+If X:Then
+If Z:Then
+Dpi→\LQ(Q):(D+M)pi→\LQ(Q+1):Q+2→Q
+Goto 1
+End:End
+
+If Y:Then
+If W:Then
+Dpi→\LQ(Q):(D+M)pi→\LQ(Q+1):Q+2→Q
+End:End
+
+Lbl 1
+M+1→M
+End
+D+1→D:I+4→I
+End

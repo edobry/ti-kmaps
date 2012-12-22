@@ -1,0 +1,6 @@
+0→I
+While I<4
+\LD(D+I)→\LH(H+1)
+I+1→I
+End
+H+4→H

@@ -1,0 +1,25 @@
+prgmKCURSOR
+
+If K=24:Then
+IfX>1:Then:(X-1)→X
+Else:8→X:End
+End
+
+If K=25:Then
+If Y>1:Then:(Y-1)→Y
+Else:4→Y:End
+End
+
+If K=26:Then
+If X<8:Then:(X+1)→X
+Else:1→X:End
+End
+
+If K=34:Then
+If Y<4:Then:(Y+1)→Y
+Else:1→Y:End
+End
+
+prgmKFIXPOS
+prgmKSETPOS
+prgmKCURSOR
