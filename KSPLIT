@@ -1,19 +1,19 @@
-1→THETA
-While THETA!=5
+1→θ
+While θ!=5
 1→Z
 While Z!=5
-[I](THETA,Z)→[G](THETA,Z)
+[I](θ,Z)→[G](θ,Z)
 Z+1→Z
 End
-THETA+1→THETA
+θ+1→θ
 End
 
-1→THETA
-While THETA!=5
+1→θ
+While θ!=5
 5→Z
 While Z!=9
-[I](THETA,Z)→[H](THETA,Z-4)
+[I](θ,Z)→[H](θ,Z-4)
 Z+1→Z
 End
-THETA+1→THETA
+θ+1→θ
 End

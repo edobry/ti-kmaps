@@ -1,5 +1,4 @@
 Specials: 	STO: →
-			THETA: idk yet =\
 
 1→H:1→:0→G:0→U
 While V<3
@@ -7,14 +6,14 @@ While V<3
 4V-4→U
 While H<3
 4H-4→G
-1→THETA
-While THETA<5
+1→θ
+While θ<5
 1→Z
 While Z<5
-[G](THETA,Z)→[E](THETA+U,Z+G)
+[G](θ,Z)→[E](θ+U,Z+G)
 Z+1→Z
 End
-THETA+1→THETA
+θ+1→θ
 End
 H+1→H
 End

@@ -1,0 +1,255 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"property	New Property"
+			],
+			[
+				"player",
+				"player1"
+			],
+			[
+				"machine",
+				"machineMove"
+			],
+			[
+				"pr",
+				"process.exit(code);"
+			],
+			[
+				"exit",
+				"process.exit(code);"
+			],
+			[
+				"set",
+				"setTimeout();"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"node",
+				"Snippet: Snippet: NodeJS EventEmitter"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Eugene/Documents/Projects/Drachuk/node.js/KINIT",
+		"/C/Users/Eugene/Documents/Projects/ti-kmaps/KMAPS",
+		"/C/Users/Eugene/Documents/Projects/ti-kmaps/KMOVE",
+		"/C/Users/Eugene/Documents/Projects/ti-kmaps/KPUT",
+		"/C/Users/Eugene/Documents/Projects/ti-kmaps/KRESET",
+		"/C/Users/Eugene/Documents/Projects/ti-kmaps/KSCOPYH",
+		"/C/Users/Eugene/Documents/Projects/ti-kmaps/KSCOPYV",
+		"/C/Users/Eugene/Documents/Projects/ti-kmaps/KSCORE",
+		"/C/Users/Eugene/Documents/Projects/ti-kmaps/KSDOUBLE",
+		"/C/Users/Eugene/Documents/Projects/ti-kmaps/KSETDIR",
+		"/C/Users/Eugene/Documents/Projects/ti-kmaps/KSETPOS",
+		"/C/Users/Eugene/Documents/Projects/ti-kmaps/KSOCTET",
+		"/C/Users/Eugene/Documents/Projects/ti-kmaps/KSOUTH",
+		"/C/Users/Eugene/Documents/Projects/ti-kmaps/KSOUTPUT",
+		"/C/Users/Eugene/Documents/Projects/ti-kmaps/KSOUTV",
+		"/C/Users/Eugene/Documents/Projects/ti-kmaps/KSPLIT",
+		"/C/Users/Eugene/Documents/Projects/ti-kmaps/KSPLTDBL",
+		"/C/Users/Eugene/Documents/Projects/ti-kmaps/KSQUAD",
+		"/C/Users/Eugene/Documents/Projects/ti-kmaps/KSTESTQH",
+		"/C/Users/Eugene/Documents/Projects/ti-kmaps/KSTESTQV",
+		"/C/Users/Eugene/Documents/Projects/ti-kmaps/KCOMBINE",
+		"/C/Users/Eugene/Documents/Projects/ti-kmaps/KSTURN",
+		"/C/Users/Eugene/Documents/Projects/ti-kmaps/KINIT",
+		"/C/Users/Eugene/Documents/Projects/Drachuk/node.js/KMAPS",
+		"/C/Users/Eugene/Documents/Projects/Drachuk/node.js/server.js",
+		"/C/Users/Eugene/Documents/Projects/Drachuk/node.js/index.js",
+		"/C/Users/Eugene/Documents/Projects/Drachuk/node.js/countries.html",
+		"/C/Users/Eugene/Desktop/cs308",
+		"/C/Users/Eugene/Documents/Projects/TI/KFIXPOS",
+		"/C/Users/Eugene/Documents/Projects/TI/KDONE",
+		"/C/Users/Eugene/Documents/Projects/TI/KDISPLAYQ",
+		"/C/Users/Eugene/Documents/Projects/TI/KCURSOR",
+		"/C/Users/Eugene/Documents/Projects/TI/KCOMBINE",
+		"/C/Users/Eugene/Documents/Projects/TI/KGETKEY",
+		"/C/Users/Eugene/Documents/Projects/TI/KCOMBINE.ti",
+		"/C/Users/Eugene/AppData/Local/Temp/7zOF7F7.tmp/jquery-ui-1.9.1.custom.css",
+		"/C/Users/Eugene/AppData/Local/Temp/7zOEAAD.tmp/jquery-ui-1.9.1.custom.min.css",
+		"/C/Users/Eugene/AppData/Local/AiGameDev.com/The AI Sandbox/CaptureTheFlag-sdk/simulate.py",
+		"/C/Users/Eugene/AppData/Local/AiGameDev.com/The AI Sandbox/CaptureTheFlag-sdk/bootstrap.py",
+		"/C/Users/Eugene/Documents/Projects/Seattle/test.py",
+		"/C/Users/Eugene/Documents/Projects/Seattle/test.repy",
+		"/C/Users/Eugene/AppData/Local/Temp/7zO3B5F.tmp/run_game.py",
+		"/C/Users/Eugene/Desktop/flatbot-4/run_game.py",
+		"/C/Users/Eugene/AppData/Roaming/Sublime Text 2/Packages/User/repy.sublime-build",
+		"/C/Users/Eugene/AppData/Roaming/Sublime Text 2/Packages/Python/Python.sublime-build",
+		"/C/Users/Eugene/Downloads/restrictions.test",
+		"/C/Users/Eugene/Desktop/seattle/seattle_repy/restrictions.py",
+		"/C/Users/Eugene/Documents/Projects/KingofKmaps/KingOfKmaps/mongo.js",
+		"/C/Users/Eugene/AppData/Local/Temp/7zECF70.tmp/.gitignore",
+		"/C/Users/Eugene/AppData/Local/Temp/7zECF70.tmp/package.json",
+		"/C/Users/Eugene/AppData/Local/Temp/7zECF70.tmp/README.md",
+		"/C/Users/Eugene/AppData/Local/Temp/7zECF70.tmp/.travis.yml",
+		"/C/Users/Eugene/Documents/Projects/KingofKmaps/index.js",
+		"/C/Users/Eugene/Desktop/test.html",
+		"/C/Users/Eugene/Documents/Projects/KingofKmaps/client.js",
+		"/C/Users/Eugene/Documents/Projects/KingofKmaps/board",
+		"/C/Users/Eugene/Documents/Projects/KingofKmaps/server.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Eugene\\Documents\\Projects\\ti-kmaps",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"π",
+			"pi",
+			"THETA",
+			"leftTable",
+			"input.toString().trim"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"π",
+			"θ",
+			"rightTable"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true
+}
